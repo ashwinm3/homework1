@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is where all your changes for your project are(some network)
