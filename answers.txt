@@ -1,3 +1,7 @@
+What is a remote repository?
+
+A remote repository is where all your changes for your project are(some network)
+
 Merge - joins two or more development histories together
 
 Rebase - reapplies commits on top of another base branch
